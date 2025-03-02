@@ -6,7 +6,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/terajh/eslint-import-grouping-rule.git"
+    "url": "git+https://github.com/terajh/eslint-import-grouping-rule.git"
   },
   "description": "Group imports from the same unit together and separate groups by a blank line",
   "keywords": [
