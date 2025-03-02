@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-import-grouping-rule",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Group imports from the same unit together and separate groups by a blank line",
   "keywords": [
     "eslint",
