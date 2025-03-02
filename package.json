@@ -1,8 +1,12 @@
 {
-  "name": "eslint-plugin-import-grouping-rule",
+  "name": "@terajh/eslint-plugin-import-grouping-rule",
   "version": "0.0.14",
   "publishConfig": {
-    "@terajh:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terajh/eslint-import-grouping-rule.git"
   },
   "description": "Group imports from the same unit together and separate groups by a blank line",
   "keywords": [
